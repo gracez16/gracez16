@@ -1,4 +1,4 @@
 gracez16
 ========
 
-gracez16 has now been changed to gzgracez
+gracez16 has now been moved to gzgracez
